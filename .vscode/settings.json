@@ -1,0 +1,10 @@
+{
+    "makefile.makePath": "C:\\ProgramData\\chocolatey\\bin\\make.exe",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Ian\\projects\\softwareRasterizer",
+            "binaryPath": "c:\\Users\\Ian\\projects\\softwareRasterizer\\main",
+            "binaryArgs": []
+        }
+    ]
+}
